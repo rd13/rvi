@@ -1,6 +1,9 @@
 {
   "name": "rvi",
   "version": "1.0.0",
+  "description": "rvi",
   "main": "index.js",
+  "module": "index.js",
+  "author": "mailstu@gmail.com",
   "license": "MIT"
 }
