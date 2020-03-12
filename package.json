@@ -1,9 +1,13 @@
 {
   "name": "rvi",
   "version": "1.0.0",
-  "description": "rvi",
+  "description": "",
   "main": "index.js",
-  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "mailstu@gmail.com",
-  "license": "MIT"
+  "license": "ISC",
+  "dependencies": {
+  }
 }
